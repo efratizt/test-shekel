@@ -1,0 +1,16 @@
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindInterfaces.xml
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindInterfaces.dll
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindInterfaces.pdb
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csprojAssemblyReference.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CoreCompileInputs.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CopyComplete
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
+D:\Users\User\Desktop\Dotnet\bin\NorthwindInterfaces.xml
+D:\Users\User\Desktop\Dotnet\bin\NorthwindInterfaces.dll
+D:\Users\User\Desktop\Dotnet\bin\NorthwindInterfaces.pdb
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Debug\Northwin.F33894AC.Up2Date
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb

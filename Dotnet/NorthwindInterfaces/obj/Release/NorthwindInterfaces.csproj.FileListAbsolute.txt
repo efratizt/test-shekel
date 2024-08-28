@@ -1,0 +1,6 @@
+D:\Users\User\Desktop\Dotnet\bin\NorthwindInterfaces.xml
+D:\Users\User\Desktop\Dotnet\bin\NorthwindInterfaces.dll
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Release\NorthwindInterfaces.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Release\NorthwindInterfaces.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Release\Northwin.F33894AC.Up2Date
+D:\Users\User\Desktop\Dotnet\NorthwindInterfaces\obj\Release\NorthwindInterfaces.dll
